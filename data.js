@@ -18,7 +18,7 @@ const courses = [
         thumbnail: "2.png",
         price: 89.99,
         rating: 4.7,
-        students: 12250,
+        students: 0,
         duration: "10 hours",
         videoUrl: "https://www.youtube.com/watch?v=BU_afT-aIn0&t=593s",
         category: "design"
